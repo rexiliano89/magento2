@@ -24,6 +24,6 @@
     "@microsoft/api-extractor": "7.18.1"
   },
   "dependencies": {
-    "sf-docs-base": "latest"
+    "sf-docs-base": "1.4.0"
   }
 }
