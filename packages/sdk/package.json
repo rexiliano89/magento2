@@ -20,7 +20,7 @@
   "dependencies": {
     "@apollo/client": "^3.6.9",
     "@vue-storefront/magento-types": "^2.0.0",
-    "@vue-storefront/sdk": "^1.0.0",
+    "@vue-storefront/sdk": "^1.2.0",
     "@vue-storefront/sdk-axios-request-sender": "1.0.0",
     "axios": "^0.27.2",
     "ts-essentials": "^9.3.1"
